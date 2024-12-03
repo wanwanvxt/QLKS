@@ -1,4 +1,4 @@
-# PHẦN MỀM QUẢN LÝ KHÁCH SẠN
+# PHẦN MỀM QUẢN LÝ KHÁCH SẠN (C#, SQL Server)
 
 ## Môi trường làm việc
 * SQL Server Management Studio.
